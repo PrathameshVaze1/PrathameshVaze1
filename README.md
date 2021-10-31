@@ -4,7 +4,7 @@
          width="45" />, I'm Prathamesh Vaze</h1>
 <h5 align="center">
 
-<img align="right" alt="GIF" src="https://github.com/PrathameshVaze1/PrathameshVaze1/blob/main/code.png?raw=true" />
+<img align="right" alt="GIF" src="https://github.com/PrathameshVaze1/PrathameshVaze1/blob/main/code1.svg?raw=true" />
 
 ![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathameshVaze1&show_icons=true&theme=radical)
 
